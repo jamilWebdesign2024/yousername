@@ -1,5 +1,5 @@
 <!-- 👋 Banner Section -->
-<img src="[https://i.imgur.com/your-banner.png](https://i.postimg.cc/SKWnhc4G/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png)" alt="Banner" width="100%" />
+![Banner](https://i.postimg.cc/SKWnhc4G/Purple-Blue-Simple-Professional-Marketing-Professional-Linked-In-Article-Cover-Image.png)
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#38bdf8">MD Jamil Uddin (Jishan)</span></h1>
 <h3 align="center">💻 Frontend Web Developer | React.js | Node.js | MongoDB</h3>
